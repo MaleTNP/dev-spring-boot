@@ -1,0 +1,11 @@
+Section 3: Hibernate/JPA CRUD
+
+What is Hibernate?
+ - A framework for persisting / saving Java objects in a database.
+ - www.hibernate.org/orm
+
+.------.      .-----------.      .-----.
+| Your | ---> | Hibernate | ---> |-----|
+| Java |      |           |      |-----|
+| App  |      |           |      |-----|
+'------'      '-----------'      '-----'
